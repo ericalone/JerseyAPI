@@ -13,7 +13,7 @@ This porject applies ajax and Java RESTful services in RAX-RS API
   
 Build:  mvn package
 
-Base  url: http://localhost:8080/jerseyAPI-0/
+Base  url: http://localhost:8080/jerseyAPI/
 
 Note:
     Missing test cases, frondend is not perfect. Need more enhancement on data validation ....
